@@ -1,6 +1,6 @@
 # Neighborhood Disparities in Land Surface Temperature and the Role of the Built Environment: Evidence from a Major Chinese City
 
-This repository contains the analytical dataset and Stata code used for the research paper:
+This repository contains the analytical dataset and R code used for the research paper:
 
 > **“Neighborhood Disparities in Land Surface Temperature and the Role of the Built Environment: Evidence from a Major Chinese City”**
 >
@@ -8,8 +8,23 @@ This repository contains the analytical dataset and Stata code used for the rese
 
 ***
 
-## Overview
+## Repository Structure
 
-This project investigates how neighborhood characteristics and the built environment contribute to variations in Land Surface Temperature (LST) within a major Chinese city. The goal is to provide evidence-based insights into urban heat exposure and environmental justice.
+The project files are organized as follows:
 
+*   **`code.R`**: The primary analytical script. This code utilizes the **`lavaan`** package to perform Structural Equation Modeling (SEM) and path analysis to examine how the built environment mediates LST disparities.
+*   **`data0114/`**: Directory containing the core analytical dataset used for model estimation.
+*   **`data_dictionary.txt`**: A comprehensive reference file defining variable names, units of measurement, and data sources for all metrics used in the study.
 
+---
+
+## Getting Started
+
+### Prerequisites
+To ensure full compatibility with the saved models and results, this analysis should be run using:
+*   **R version 4.5.2** or later.
+
+The following R libraries are required:
+```R
+# Install essential packages
+install.packages(c("lavaan"))
