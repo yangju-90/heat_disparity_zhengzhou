@@ -12,9 +12,9 @@ This repository contains the analytical dataset and R code used for the research
 
 The project files are organized as follows:
 
-*   **`code.R`**: The primary analytical script. This code utilizes the **`lavaan`** package to perform Structural Equation Modeling (SEM) and path analysis to examine how the built environment mediates LST disparities.
+*   **`code.R`**: The primary analytical script. This code utilizes the **`lavaan`** package to perform path analysis with Structural Equation Modeling (SEM) to examine how the built environment mediates LST disparities.
 *   **`data0114/`**: Directory containing the core analytical dataset used for model estimation.
-*   **`data_dictionary.txt`**: A comprehensive reference file defining variable names, units of measurement, and data sources for all metrics used in the study.
+*   **`data_dictionary.txt`**: A reference file defining variable names in the analytical dataset.
 
 ---
 
