@@ -5,6 +5,9 @@ This repository contains the analytical dataset and R code used for the research
 > **“Neighborhood Disparities in Land Surface Temperature and the Role of the Built Environment: Evidence from a Major Chinese City”**
 >
 > **Authored By:** Yang Ju (Nanjing University), Huiyan Shang (Nanjing University), Jiangang Xu (Nanjing University), Yu Huang (Nanjing University), Jinglu Song (Xi'an Jiaotong-Liverpool University), Yiwen Wang (Nanjing University), Ying Liang (Nanjing University), Maryia Bakhtsiyarava (Drexel University).
+>
+**Corresponding Author:**  
+Yang Ju ([yangju90@nju.edu.cn](mailto:yangju90@nju.edu.cn)), Nanjing University.
 
 ***
 
