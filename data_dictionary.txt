@@ -1,0 +1,31 @@
+Analytical dataset for paper “Neighborhood Disparities in Land Surface Temperature and the Role of the Built Environment: Evidence from a Major Chinese City”, 
+Authored by Yang Ju (Nanjing University), Huiyan Shang (Nanjing University), Jiangang Xu (Nanjing University), Yu Huang (Nanjing University), 
+Jinglu Song (Xi'an Jiaotong-Liverpool University), Yiwen Wang (Najing University), Ying Liang (Nanjing University), Maryia Bakhtsiyarava (Drexel University).
+
+For questions, contact Yang Ju (yangju90@nju.edu.cn)
+
+*******************************************************
+No. ....... unique identifier for the neighborhoods
+
+District_id ....... unique identifier for the districts
+
+GaodeLng ....... geocode longitude for Geode Map
+
+GaodeLat ....... geocode latitude for Geode Map
+
+housing_price ....... average housing price per unit of the neighborhood, in million Chinese Yuan
+
+compact ....... % compact buildings within neighborhood extent (500-m buffer)
+
+open ....... % open buildings within neighborhood extent (500-m buffer)
+
+large low-rise ....... % large low-rise buildings within neighborhood extent (500-m buffer)
+
+UGS ....... % urban green space within neighborhood extent (500-m buffer)
+
+Distance ....... distance to city center
+
+Subsequent columns starting with "T" (e.g.T20200518): LST data in degree Celsius, observed at xxxx[year]-xx[month]-xx[day]
+
+Subsequent columns in "Dist_x" format: dummy variable for each of the districts
+
