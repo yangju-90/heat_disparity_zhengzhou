@@ -10,8 +10,6 @@ This repository contains the analytical dataset and Stata code used for the rese
 
 ## Overview
 
-This project investigates how neighborhood characteristics and the built environment contribute to variations in Land Surface Temperature (LST) within a major Chinese city. The goal is to provide evidence-based insights into urban heat islands and environmental justice.
+This project investigates how neighborhood characteristics and the built environment contribute to variations in Land Surface Temperature (LST) within a major Chinese city. The goal is to provide evidence-based insights into urban heat exposure and environmental justice.
 
-## Repository Contents
 
-The repository is structured as follows:
