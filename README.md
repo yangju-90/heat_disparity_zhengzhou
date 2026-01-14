@@ -6,7 +6,7 @@ This repository contains the analytical dataset and R code used for the research
 >
 > **Authored By:** Yang Ju (Nanjing University), Huiyan Shang (Nanjing University), Jiangang Xu (Nanjing University), Yu Huang (Nanjing University), Jinglu Song (Xi'an Jiaotong-Liverpool University), Yiwen Wang (Nanjing University), Ying Liang (Nanjing University), Maryia Bakhtsiyarava (Drexel University).
 >
-**Corresponding Author:**  
+> **Corresponding Author:**  
 Yang Ju ([yangju90@nju.edu.cn](mailto:yangju90@nju.edu.cn)), Nanjing University.
 
 ***
